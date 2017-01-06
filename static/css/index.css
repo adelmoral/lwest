@@ -42,7 +42,7 @@ body {
 }
 .main-content {
   margin: 50px auto;
-  max-width: 600px;
+  max-width: 900px;
 }
 .main-content p {
   line-height: 1.6;
@@ -50,7 +50,7 @@ body {
 }
 .footer {
   margin: 50px auto;
-  max-width: 600px;
+  max-width: 900px;
   border-top: 1px solid #444;
   padding: 20px 0;
 }
