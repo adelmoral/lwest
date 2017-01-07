@@ -10,7 +10,8 @@
     "clean": "del static\\css\\index.css",
     "build": "npm run clean && npm run build-css",
     "watch": "npm run clean && npm run watch-css & nodemon server -e js,jade",
-    "start": "node server"
+    "start": "node server",
+	"go":"npm run build && npm start"
   },
   "repository": {
     "type": "git",
